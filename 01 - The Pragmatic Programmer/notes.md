@@ -1,0 +1,188 @@
+# The Pragmatic Programmer
+## 1. A Pragmatic Philosophy
+- What distinguishes Pragmatic Programmers?
+  - Attitude, style, a philosophy of approaching problems and their solutions.
+  - Think beyond the immediate problem => Big picture.
+  - Make intelligent compromises and informed decisions?
+- Responsibility
+- Benefit of understanding the context
+  - Becomes easier to know just how good the software has to be.
+  - Sometimes near-perfection, often trade-offs are involved.
+
+### Topic 1 - It's your life
+- You have agency
+  - Martin Fowler "you can change your organization or change your organization."
+- Make time (in your time) to study new stuff
+  - Invest in yourself => off-the-clock is only reasonable.
+
+### Topic 2 - The cat ate my source code
+- One of the cornerstones of pragmatic philosophy is the idea of taking responsibility for yourself and your actions.
+  - Career advancement
+  - Learning and education
+  - Project
+  - Day-to-day work
+- We can be proud of our abilities, but we must own up to our shortcomings, our ignorance, and our mistakes.
+- Above all, your team needs to be able to trust and rely on you.
+  - An you need to be comfortable relying on each of them as well.
+- Responsibility is something you actively agree to.
+  - Commitment to ensure that something is done right, but you don't necessarily have direct control over every aspect of it.
+  - Analyze the situation for risks that are beyond your control.
+  - Don't take responsibility for an impossible situation, or one which the risks are too great, or the ethical implications are too sketchy.
+  - Make the call based on your values and judgement.
+- When you make a mistake => admit + offer options.
+  - It's up to you to provide solutions, not excuses.
+  - Have a contingency plan.
+
+>Tip 4: Provide Options, Don' Make Lame Excuses
+
+### Topic 3 - Software Entropy
+- Entropy: amount of disorder in a system.
+  - When disorder increases in software: "rot" or "technical debt"
+  - Both debt and rot can spread uncontrollably.
+  - Factors: psychology or culture
+- One broken windown, left unrepaired for any substantial length of time, instills in the inhabitants of the building a send of abandonment.
+  - Hopelessness can be contagious.
+  
+>Tip 5: Don't live with broken windows
+- Bad designs, wrong decisions, or poor code
+  - Fix each one as soon as it is discovered.
+  - It there is insufficient time => board it up.
+    - Comment out the offending code
+    - Display a "not implemented"
+    - Substitute dummy data instead.
+    - Take *some* action to prevent further damage, and show that you are on top of the situation.
+
+- First, do no harm
+- Tell yourself: no broken windows
+
+### Topic 4 - Stone Soup and Boiled Frogs
+- Soldiers act as a catalyst, bringing the village together so they can jointly produce something they couldn't have done by themselves.
+  - A synergistic result.
+  - Eventually everyone wins.
+
+- Start-up fatigue
+  - Work out what you can reasonably ask for
+  - "It would be better if we added ..."
+  - People find it easier to join an ongoing success.
+
+>Tip 6: Be a catalyst for change
+
+>Tip 7: Remember the big picture
+- People lose the will to fight entropy because they perceive that no one cares.
+- Constantly review what's happening around you, not just what you personally are doing.
+- Situation awareness for your project
+
+### Topic 5 - The Good-Enough Software
+- Time, technology, and temperature all conspire against programming.
+- You can discipline yourself to write software that's good enough.
+  - For your users, for future maintainers, for your own peace of mind.
+  - "Good enough" does not imply sloppy or poorly produced code.
+
+- Involve your users in the trade-off
+  - Often you find out what they want
+  - How about "how good" they want their software to be?
+
+>Tip 8: Make quality a requirements issue
+
+- Know when to stop
+  - In some ways, programming is like painting.
+  - If add layer upon layer, detail over detail, *the painting becomes lost in the paint.*
+
+### Topic 6 - Your knowledge portfolio
+- Your knowledge and experience are your most important day-to-day professional assets.
+  - Unfortunately, they are *expiring assets.*
+  - Your ability to learn new things is your most important strategic asset.
+
+- Managing a knowledge portfolio => similar to managing a financial portfolio:
+  - Serious investors invest regularly - as a habit.
+  - Diversification is the key to long-term success.
+  - Smart investors balance their portfolios between conservative and high-risk, high-reward investments.
+  - Investors try to buy low and sell high for maximum return.
+  - Portfolios should be reviewed and rebalanced periodically.
+
+- **Building your portfolio**
+  - **Invest regularly**: invest in your knowledge portfolio regularly, even if it's just a small amount.
+  - **Diversify**: the more different things you know, the more valuable you are.
+  - **Manage risk**: technology exists along a spectrum from risky, potentially high-reward to low-risk, low-reward standards.
+  - **Buy low, sell high**: learning an emerging technology before it becomes popular can be just as hard as finding an undervalued stock, but the payoff can be just as rewarding.
+  - **Review and re-balance**: this is a very dynamic industry.
+
+>Tip 9: Invest regularly in your knowledge portfolio
+
+- Goals: a few suggestions
+  - Learn at least one new language every year: different languages solve the same problems in different ways.
+  - Read a technical book each month: for deep understanding you need long-form books.
+  - Read nontechnical books, too: computers are used by people.
+  - Take classes
+  - Participate in local user groups and meetups: isolation can be deadly to your career.
+  - Experiment with different environments
+  - Stay current: read news and posts online.
+
+- Even if your project doesn't use that technology, perhaps you can borrow some ideas.
+  - Get familiar with object orientation, for instance, and you will write procedural programs differently.
+  - Understand the functional programming paradigm and you will write object-oriented code differently.
+
+- Opportunities for learning
+  - You don't know the answer to a question: take it as a personal challenge to find the answer. Ask around, search the web, ...
+
+- Critical Thinking
+  - Think critically about what you read and hear.
+  - Ensure that the knowledge in your portfolio is accurate and unswayed by either vendor or media hype.
+  - Never underestimate the power of commercialism.
+    - Just because a web search engine lists a hit first doesn't mean that it's the best match.
+
+>Tip 10: Critically analyze what you read and hear
+- Ask the five "whys"
+- Who does this benefit: follow the money
+- What's the context?
+- When or where would this work?
+- Why is this a problem?
+
+### Topic 7: Communicate!
+- It's not just what you've got, but also how you package it.
+  - A good idea is an orphan without effective communication.
+  - Treat English (or other language) as a programming language: nor the DRY principle, ETC, automation, and so on.
+
+>Tip 11: English is just another programming language
+
+- Know Your Audience
+  - The trick is to gather feedback.
+  - Don't just wait for questions: ask them.
+  - Look at body language, and facial expressions.
+  - The meaning of your communication is the response you get.
+
+- Know What You Want to Say
+  - Plan, write an outline.
+  - "Does this communicate what I want to express to my audience in a way that works for them?"
+
+- Choose Your Moment
+  - As part of understanding what your audience needs to hear, you need to work out what their priorities are.
+
+- Choose a Style
+  - Adjust the style of your delivery to suit your audience.
+  - Remember, you are half of the communication transaction.
+
+- Make It Look Good
+  - Your ideas are important. They deserver a good-looking vehicle to convey them to your audience.
+
+- Involve Your Audience
+  - If possible, involve your readers with early drafts of your document.
+
+- Be a listener
+  - If you want people to listen to you: listen to them.
+  - Encourage people to talk by asking questions.
+
+- Get Back to People
+  - Always respond to emails and voicemails, even if it's a simple response.
+
+>Tip 12: It's both what you say and the way you say it
+
+- Documentation
+  - Embrace documentation as an integral parat of the overall development process.
+
+>Tip 13: Build documentation in, don't bolt it on
+- This doesn't mean every function, data structure, type declaration, etc.
+- Restrict your non-API commenting to discussing *why* something is done, its purpose and its goal.
+  - The code already shows *how* it is done.
+- Commenting source code gives you the perfect opportunity to document those elusive bits of a project that can't be documented anywhere else:
+  - Engineering trade-offs, why decisions were made, what other alternative were discarded, and so on.
