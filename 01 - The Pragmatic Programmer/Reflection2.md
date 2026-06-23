@@ -1,0 +1,25 @@
+**Themes to write about**
+- "Programming defensively: accepting imperfection"
+  - Why good developers assume bugs will happen
+  - The idea that "perfect code" is unrealistic - and how systems should handle failure
+- "Responsibility in code: who own correctness?"
+  -  Code as a contract between components (and between developers)
+  -  Why tightly coupled systems become fragile over time
+-  "The cost of hidden coupling"
+   -  Hidden connections between parts of a system
+   -  How small design choices cascade into big maintenance challenges
+-  "Concurrency and reality: why systems are hard"
+   -  Why real-world systems are inherently messy and unpredictable
+   -  How concurrency exposes flaws in assumptions about code behavior
+-  "Avoiding accidental programming"
+   -  The danger of writing code that "just happens to work"
+   -  Intentionality vs trial-and-error coding
+-  "Refactoring as a habit, not an event"
+   -  Code as something that evolves rather than something finished
+   -  The mindset required to maintain quality long term
+-  "Testing and trust in software"
+   -  Testing as a way to build trust in systems
+   -  Differences between testing for correctness vs testing for confidence
+-  "Thinking like a craftsperson"
+   -  Programming as a craft rather than just a technical task
+   -  The role of habits, thinking, and judgement in good development
